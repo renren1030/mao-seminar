@@ -8,6 +8,7 @@ https://elmas3.github.io/mao-seminar/
 ファンタメロン
 みつやさいだ
 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaa
 # ディレクトリ構成
 ```
 seminar/
